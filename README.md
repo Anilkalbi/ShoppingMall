@@ -72,11 +72,13 @@ This project was developed to strengthen backend skills and gain hands-on experi
 
    b) Update application.properties with your MySQL credentials:
 
-      spring.datasource.url=jdbc:mysql://localhost:3306/shoppingmall.
-      spring.datasource.username=your_username.
-      spring.datasource.password=your_password.
+      spring.datasource.url=jdbc:mysql://localhost:3306/shoppingmall
+   
+      spring.datasource.username=your_username
+   
+      spring.datasource.password=your_password
 
-      (please donot add dot at last)
+  
 
 4. Build and run the application
 
